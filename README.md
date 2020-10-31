@@ -130,6 +130,8 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [PicPay](https://picpay.gupy.io)
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
+### São José dos Campos - sp
+- [Imagem](https://grupoimg.com.br/vagas) 
 #### Sergipe - SE
 
 #### Tocantins - TO
